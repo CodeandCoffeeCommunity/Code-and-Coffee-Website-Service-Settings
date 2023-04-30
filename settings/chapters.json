@@ -1,55 +1,7 @@
 [
   {
-    "name": "NoVA",
-    "meetupApiGroupId": "14173832"
-  },
-  {
-    "name": "Triangle",
-    "meetupApiGroupId": "28791157"
-  },
-  {
-    "name": "Dulles",
-    "meetupApiGroupId": "31207349"
-  },
-  {
-    "name": "Baltimore",
-    "meetupApiGroupId": "32465705"
-  },
-  {
     "name": "New York",
     "meetupApiGroupId": "35864191"
-  },
-  {
-    "name": "Austin",
-    "meetupApiGroupId": "36494167"
-  },
-  {
-    "name": "Chicago",
-    "meetupApiGroupId": "36507223"
-  },
-  {
-    "name": "Columbus",
-    "meetupApiGroupId": "36535784"
-  },
-  {
-    "name": "St. Louis",
-    "meetupApiGroupId": "36545073"
-  },
-  {
-    "name": "Whidbey",
-    "meetupApiGroupId": "36566747"
-  },
-  {
-    "name": "Ventura",
-    "meetupApiGroupId": "36568438"
-  },
-  {
-    "name": "Frederick",
-    "meetupApiGroupId": "36576932"
-  },
-  {
-    "name": "Cincinnati",
-    "meetupApiGroupId": "36628812"
   },
   {
     "name": "Boston",
