@@ -1,4 +1,4 @@
-name: Development Deploy
+name: Validate
 
 on:
   workflow_dispatch:
@@ -6,7 +6,6 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    environment: development
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v3
