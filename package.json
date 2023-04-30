@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Manages the settings for the Code and Coffee Website Service",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "validate": "ts-node ./validation/validate.ts",
+    "validate": "ts-node --esm ./validation/validate.ts",
     "fix": "npx prettier --write . && npx eslint . --fix"
   },
   "repository": {
