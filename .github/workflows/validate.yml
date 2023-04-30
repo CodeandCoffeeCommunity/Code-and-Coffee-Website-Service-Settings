@@ -1,0 +1,10 @@
+name: Development Deploy
+
+on:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    environment: development
+    timeout-minutes: 15

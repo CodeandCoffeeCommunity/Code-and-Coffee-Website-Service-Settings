@@ -1,0 +1,28 @@
+{
+  "name": "code-and-coffee-website-service-settings",
+  "version": "1.0.0",
+  "description": "Manages the settings for the Code and Coffee Website Service",
+  "main": "index.js",
+  "scripts": {
+    "validate": "npx eslint . && npx prettier --check .",
+    "fix": "npx prettier --write . && npx eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeandCoffeeCommunity/Code-and-Coffee-Website-Service-Settings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeandCoffeeCommunity/Code-and-Coffee-Website-Service-Settings/issues"
+  },
+  "homepage": "https://github.com/CodeandCoffeeCommunity/Code-and-Coffee-Website-Service-Settings#readme",
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "@typescript-eslint/eslint-plugin": "^5.59.1",
+    "@typescript-eslint/parser": "^5.59.1",
+    "eslint": "^8.39.0",
+    "prettier": "^2.8.8",
+    "typescript": "^5.0.4"
+  }
+}
