@@ -2,7 +2,7 @@
 
 Following are descriptions for all the settings that can be configured for the Code and Coffee Service.
 
-## [Chapters](./settings/chapters.json)
+## [Chapters](./chapters.json)
 
 **chapters.json**
 
