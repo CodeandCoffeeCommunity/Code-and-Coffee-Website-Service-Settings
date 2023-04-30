@@ -4,7 +4,13 @@
 
 A repo to manage the settings of the Code and Coffee Service.
 
-Includes a validation system to ensure that the settings are always valid and to reduce the change of errors caused by misconfiguration.
+Includes a validation system to ensure that the settings are always valid and to reduce the change of errors caused by misconfiguration.  
+
+There are two environments for the Code and Coffee Service: 
+- "**Production**" is the main environment and is what the Code and Coffee homepage runs off of. It is in our best interest that this environment stays as stable as possible.
+- "**Development**" is our development environment. It is meant for us to play around with and break from time to time. Where we can test ideas out with little penalty.
+
+These two environments have two separate sets of settings to enable stability in Production while allowing for creative bodging in Development. These settings can be found in the *production* and *development* branches respectfully. These two branches do not need to always be in sync.
 
 To update the settings see Updating Settings Workflow in [workflow.md](./workflow.md).
 
