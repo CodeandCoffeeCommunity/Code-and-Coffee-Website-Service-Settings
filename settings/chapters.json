@@ -1,58 +1,46 @@
 [
   {
     "name": "NoVA",
-    "meetupApiGroupId": "14173832"
+    "meetupGroupUrlName": "nova-code-coffee"
   },
   {
     "name": "Triangle",
-    "meetupApiGroupId": "28791157"
-  },
-  {
-    "name": "Dulles",
-    "meetupApiGroupId": "31207349"
+    "meetupGroupUrlName": "triangle-code-and-coffee"
   },
   {
     "name": "Baltimore",
-    "meetupApiGroupId": "32465705"
+    "meetupGroupUrlName": "baltimore-code-and-coffee"
   },
   {
     "name": "New York",
-    "meetupApiGroupId": "35864191"
+    "meetupGroupUrlName": "new-york-code-coffee"
   },
   {
     "name": "Austin",
-    "meetupApiGroupId": "36494167"
+    "meetupGroupUrlName": "austin-code-and-coffee"
   },
   {
     "name": "Chicago",
-    "meetupApiGroupId": "36507223"
+    "meetupGroupUrlName": "code-and-coffee-chicago"
   },
   {
     "name": "Columbus",
-    "meetupApiGroupId": "36535784"
+    "meetupGroupUrlName": "columbus-code-and-coffee"
   },
   {
     "name": "St. Louis",
-    "meetupApiGroupId": "36545073"
-  },
-  {
-    "name": "Whidbey",
-    "meetupApiGroupId": "36566747"
+    "meetupGroupUrlName": "code-and-coffee-st-louis"
   },
   {
     "name": "Ventura",
-    "meetupApiGroupId": "36568438"
-  },
-  {
-    "name": "Frederick",
-    "meetupApiGroupId": "36576932"
+    "meetupGroupUrlName": "ventura-code-coffee"
   },
   {
     "name": "Cincinnati",
-    "meetupApiGroupId": "36628812"
+    "meetupGroupUrlName": "cincinnati-code-and-coffee"
   },
   {
     "name": "Boston",
-    "meetupApiGroupId": "36667253"
+    "meetupGroupUrlName": "boston-code-and-coffee"
   }
 ]

@@ -2,7 +2,7 @@
   "elements": {
     "properties": {
       "name": { "type": "string" },
-      "meetupApiGroupId": { "type": "string" }
+      "meetupGroupUrlName": { "type": "string" }
     }
   }
 }
