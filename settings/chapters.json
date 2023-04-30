@@ -42,5 +42,9 @@
   {
     "name": "Boston",
     "meetupGroupUrlName": "boston-code-and-coffee"
+  },
+  {
+    "nme": "Seattle",
+    "meetupGroupUrlName": "seattle-code-and-coffee"
   }
 ]
