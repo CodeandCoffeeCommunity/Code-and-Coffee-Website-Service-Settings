@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "validate": "ts-node --esm ./validation/validate.ts",
+    "validate": "ts-node --esm validate.ts",
     "fix": "npx prettier --write . && npx eslint . --fix"
   },
   "repository": {
