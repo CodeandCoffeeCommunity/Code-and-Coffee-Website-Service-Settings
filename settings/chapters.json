@@ -1,10 +1,46 @@
 [
   {
+    "name": "NoVA",
+    "meetupGroupUrlName": "nova-code-coffee"
+  },
+  {
+    "name": "Triangle",
+    "meetupGroupUrlName": "triangle-code-and-coffee"
+  },
+  {
+    "name": "Baltimore",
+    "meetupGroupUrlName": "baltimore-code-and-coffee"
+  },
+  {
     "name": "New York",
-    "meetupApiGroupId": "35864191"
+    "meetupGroupUrlName": "new-york-code-coffee"
+  },
+  {
+    "name": "Austin",
+    "meetupGroupUrlName": "austin-code-and-coffee"
+  },
+  {
+    "name": "Chicago",
+    "meetupGroupUrlName": "code-and-coffee-chicago"
+  },
+  {
+    "name": "Columbus",
+    "meetupGroupUrlName": "columbus-code-and-coffee"
+  },
+  {
+    "name": "St. Louis",
+    "meetupGroupUrlName": "code-and-coffee-st-louis"
+  },
+  {
+    "name": "Ventura",
+    "meetupGroupUrlName": "ventura-code-coffee"
+  },
+  {
+    "name": "Cincinnati",
+    "meetupGroupUrlName": "cincinnati-code-and-coffee"
   },
   {
     "name": "Boston",
-    "meetupApiGroupId": "36667253"
+    "meetupGroupUrlName": "boston-code-and-coffee"
   }
 ]
