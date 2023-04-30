@@ -8,7 +8,7 @@ Includes a validation system to ensure that the settings are always valid and to
 
 To update the settings see Updating Settings Workflow in [workflow.md](./workflow.md).
 
-For a description of all the settings see [settings.md](./settings.md).
+For a description of all the settings see [settings.md](./settings/settings.md).
 
 ## Technologies
 
