@@ -48,7 +48,7 @@
     "meetupGroupUrlName": "longview-code-and-coffee"
   },
   {
-    "name":"RVA",
+    "name":"Richmond",
     "meetupGroupUrlName": "rva-code-coffee"
   },
   {
@@ -68,7 +68,7 @@
     "meetupGroupUrlName": "dulles-code-coffee"
   },
   {
-    "name":"Nooga",
+    "name":"Chattanooga",
     "meetupGroupUrlName": "nooga-code-coffee"
   },
   {
@@ -78,5 +78,17 @@
   {
     "name":"Atlanta",
     "meetupGroupUrlName": "atlanta-metro-code-and-coffee"
+  },
+  {
+    "name":"DC",
+    "meetupGroupUrlName": "dc-code-coffee"
+  },
+  {
+    "name":"San Francisco",
+    "meetupGroupUrlName": "sf-code-coffee"
+  },
+  {
+    "name":"Seattle",
+    "meetupGroupUrlName": "seattle-code-and-coffee"
   }
 ]
