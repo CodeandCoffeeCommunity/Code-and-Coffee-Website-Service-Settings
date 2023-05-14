@@ -46,5 +46,49 @@
   {
     "name": "Longview",
     "meetupGroupUrlName": "longview-code-and-coffee"
+  },
+  {
+    "name":"Richmond",
+    "meetupGroupUrlName": "rva-code-coffee"
+  },
+  {
+    "name":"Milwaukee",
+    "meetupGroupUrlName": "milwaukee-code-and-coffee"
+  },
+  {
+    "name":"Houston",
+    "meetupGroupUrlName": "houston-code-and-coffee"
+  },
+  {
+    "name":"Frederick",
+    "meetupGroupUrlName": "frederick-code-and-coffee"
+  },
+  {
+    "name":"Dulles",
+    "meetupGroupUrlName": "dulles-code-coffee"
+  },
+  {
+    "name":"Chattanooga",
+    "meetupGroupUrlName": "nooga-code-coffee"
+  },
+  {
+    "name":"Alexandria",
+    "meetupGroupUrlName": "alexandria-code-coffee"
+  },
+  {
+    "name":"Atlanta",
+    "meetupGroupUrlName": "atlanta-metro-code-and-coffee"
+  },
+  {
+    "name":"DC",
+    "meetupGroupUrlName": "dc-code-coffee"
+  },
+  {
+    "name":"San Francisco",
+    "meetupGroupUrlName": "sf-code-coffee"
+  },
+  {
+    "name":"Seattle",
+    "meetupGroupUrlName": "seattle-code-and-coffee"
   }
 ]
