@@ -1,0 +1,13 @@
+{
+  "elements": {
+    "properties": {
+      "name": { "type": "string" },
+      "github": { "type": "string" },
+      "email": {
+        "elements": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

@@ -15,3 +15,9 @@ A list of all the active Code and Coffee chapters. The name is a casual name to 
 **chapter-icons**
   
 The icons to use for each individual chapter. The icons must be relatively small and in png format. The name of the file must match the chapter's meetup url name to be discovered.
+
+## [Notifications](./notifications.json)
+
+**notifications.json**
+
+Manages notifications that are sent to Github as issues and emails of relevant folks.
