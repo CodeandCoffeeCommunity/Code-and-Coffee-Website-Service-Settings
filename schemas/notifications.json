@@ -8,6 +8,9 @@
           "type": "string"
         }
       }
+    },
+    "optionalProperties": {
+      "emailTitlePrepend": { "type": "string" }
     }
   }
 }
